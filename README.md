@@ -26,5 +26,4 @@ start :
 
 ## npm start
  
- ## Full Video on Youtube : 
-    Dynamic Coding with Amit
+
